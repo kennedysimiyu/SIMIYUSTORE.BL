@@ -1,0 +1,5 @@
+C:\Users\kensi\source\repos\SIMIYUSTORE.BL\SIMIYUSTORE.BL\bin\Debug\SIMIYUSTORE.BL.dll
+C:\Users\kensi\source\repos\SIMIYUSTORE.BL\SIMIYUSTORE.BL\bin\Debug\SIMIYUSTORE.BL.pdb
+C:\Users\kensi\source\repos\SIMIYUSTORE.BL\SIMIYUSTORE.BL\obj\Debug\SIMIYUSTORE.BL.csproj.CoreCompileInputs.cache
+C:\Users\kensi\source\repos\SIMIYUSTORE.BL\SIMIYUSTORE.BL\obj\Debug\SIMIYUSTORE.BL.dll
+C:\Users\kensi\source\repos\SIMIYUSTORE.BL\SIMIYUSTORE.BL\obj\Debug\SIMIYUSTORE.BL.pdb
